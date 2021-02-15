@@ -1,6 +1,6 @@
 # Service Approval Accelerator for Azure Kubernetes Service (AKS)
 
-## Identity & access management
+## Identity & Access Management
 
 ### Authentication
 
